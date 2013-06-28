@@ -1,0 +1,5 @@
+[gerrit]
+host=10.0.1.15
+port=29418
+project=hello
+defaultbranch=master
